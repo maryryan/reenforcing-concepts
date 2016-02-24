@@ -13,4 +13,4 @@ Save to YOUR repository:
 5) commit changes
     git commit -m "commit message"
 6) push to your new repo
-    git push
+    git push origin master
